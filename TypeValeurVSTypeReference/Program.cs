@@ -29,6 +29,22 @@ namespace TypeValeurVSTypeReference
         static void Main(string[] args)
         {
 
+            Console.WriteLine("**************** Les matrices *************");
+            int[,] mat = new int[2, 2];
+            mat[0, 0] = 1;
+            mat[0, 1] = 2;
+            mat[1, 0] = 10;
+            mat[1, 1] = 20;
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 2; j++)
+                    {
+                        Console.Write(mat[i,j]+"\t");
+                    }
+            }
+
+
+            Console.WriteLine("\n**************** Jagged Array *************");
             // Les Jagged Array
 
             int[][] tab = new int[3][];
