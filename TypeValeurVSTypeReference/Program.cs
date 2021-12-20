@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace TypeValeurVSTypeReference
 {
@@ -28,14 +29,77 @@ namespace TypeValeurVSTypeReference
         static void Main(string[] args)
         {
 
+            string[] names = new string[3];
+
+            for (int i = 0; i < names.Length; i++)  // La boucle for classique
+            {
+                Console.WriteLine("Donner un nom");
+                names[i] = Console.ReadLine();
+            }
+
+
+            foreach (string s in names)        // La boucle forach sur les collections
+            {
+                Console.WriteLine("Nom = {0} ", s);
+            }
+
+            // la structure à choix multiple switch
+            /*
+            string mois = "Janvier";
+
+            switch (mois)
+            {
+                case "Janvier": Console.WriteLine("C'est l'hiver"); break;
+                case "Mars": Console.WriteLine("C'est le printemps"); break;
+                case "Juillet": Console.WriteLine("C'est l'été"); break;
+                case "Octobre": Console.WriteLine("C'est l'automne"); break;
+                default: Console.WriteLine("Je sais pas"); break;
+            }*/
+            /*
+            var textToTest = "h00az111 world";
+            var regularExpression = "^h\\d{2}az\\d{3}";
+
+            var result = Regex.IsMatch(textToTest, regularExpression, RegexOptions.None);
+
+            if (result)
+            {
+                Console.WriteLine("Votre chaine vérifie le critère");
+            }
+            else {
+                Console.WriteLine("Votre chaine ne vérifie pas le critère");
+            }*/
+
+
+            /*string s1 = "formation c#";
+           
+            //String ch1 = new string("formation c#");
+            //String ch2 = new string(s1);
+            StringBuilder sb1 = new StringBuilder();
+            sb1.Append("abcabcabcabcabccb");
+            Console.WriteLine(sb1.Capacity);
+            Console.WriteLine(sb1.Length);
+            //String ch2 = new string("formation c#");
+            /*
+            string s1 = "formation c#";
+            string s2 = "formation c#";
+            String ch1 = new string("formation c#");
+            Console.WriteLine(s1 == s2);
+            Console.WriteLine(s1.Equals(s2));
+
+            Console.WriteLine(s1 == ch1);
+            Console.WriteLine(s1.Equals(ch1));*/
+
+            /*StringBuilder sb1 = new StringBuilder("formation c#");
+            StringBuilder sb2 = new StringBuilder("formation c#");
+            Console.WriteLine(sb1 == sb2);*/
             // exemple avec la classe StringBuilder(mutable)
-            
-            StringBuilder address = new StringBuilder();
+
+            /*StringBuilder address = new StringBuilder();
             address.Append("23");
             address.Append(", Main Street");
             address.Append(", Buffalo");
             string concatenatedAddress = address.ToString();
-            Console.WriteLine(address);
+            Console.WriteLine(address);*/
 
 
             // exemple avec la classe String(immutable)
