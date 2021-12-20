@@ -28,7 +28,27 @@ namespace TypeValeurVSTypeReference
     {
         static void Main(string[] args)
         {
+            // Correction exo 1
 
+            Console.WriteLine("Donner une moyenne :");
+            string valeur = Console.ReadLine();
+            char separator = ',';
+            valeur = valeur.Replace('.', separator);
+            var moy = double.Parse(valeur);
+            
+            if(moy>=0 && moy <10) Console.WriteLine("Redouble");
+            else if (moy >= 10 && moy < 14) Console.WriteLine("Assez bien");
+            else if (moy >= 14 && moy < 16) Console.WriteLine("Bien");
+            else if (moy >= 16 && moy <= 20) Console.WriteLine("Très Bien");
+            else  Console.WriteLine("Moyenne invalide!");
+
+            //Console.WriteLine("Vous avez taper {0}", moy);
+            //Console.WriteLine(moy + 2);
+
+
+
+
+            /*
             string[] names = new string[3];
 
             for (int i = 0; i < names.Length; i++)  // La boucle for classique
@@ -41,7 +61,7 @@ namespace TypeValeurVSTypeReference
             foreach (string s in names)        // La boucle forach sur les collections
             {
                 Console.WriteLine("Nom = {0} ", s);
-            }
+            }*/
 
             // la structure à choix multiple switch
             /*
