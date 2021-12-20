@@ -23,6 +23,24 @@ namespace LesTableaux
             }
 
 
+            // Partie 2
+
+            // Affichage la meilleure moyenne
+            double MeilleureMoyenne = tab[0].get_moyenne();
+            int MeilleurePos = 0;
+
+            for (int i = 1; i < tab.Length; i++)
+            {
+                if (tab[i].get_moyenne() > MeilleureMoyenne)
+                {
+                    MeilleureMoyenne = tab[i].get_moyenne();
+                    MeilleurePos = i;
+                }
+            }
+
+            Console.WriteLine("\nL'étudiant avec la meilleure moyenne est {0}", tab[MeilleurePos].ToString());
+
+
 
             //Console.WriteLine("Vous êtes : {0}", e1.ToString());
             /*

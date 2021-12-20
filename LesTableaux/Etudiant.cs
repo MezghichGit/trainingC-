@@ -23,5 +23,11 @@ namespace LesTableaux
             return "Etudiant = [ID : "+ this.id +", Nom : "+this.nom +", Moyenne : " +this.moyenne+"]";
         }
 
+        public double get_moyenne()
+        {
+            return this.moyenne;
+        }
+
+
     }
 }
