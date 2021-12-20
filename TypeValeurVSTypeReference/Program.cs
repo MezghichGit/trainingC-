@@ -28,8 +28,39 @@ namespace TypeValeurVSTypeReference
     {
         static void Main(string[] args)
         {
-            // Correction exo 1
 
+            // Les Jagged Array
+
+            int[][] tab = new int[3][];
+            tab[0] = new int[4];
+            tab[1] = new int[2];
+            tab[2] = new int[3];
+
+            tab[0][0] = 1;
+            tab[0][1] = 2;
+            tab[0][2] = 3;
+            tab[0][3] = 4;
+
+            tab[1][0] = 10;
+            tab[1][1] = 20;
+
+            tab[2][0] = 100;
+            tab[2][1] = 200;
+            tab[2][2] = 300;
+
+            foreach (int[] t in tab)
+            {
+                foreach (int s in t)
+                {
+                    Console.Write(s +"\t");
+                }
+                Console.WriteLine();
+            }
+
+
+
+            // Correction exo 1
+            /*
             Console.WriteLine("Donner une moyenne :");
             string valeur = Console.ReadLine();
             char separator = ',';
@@ -40,7 +71,7 @@ namespace TypeValeurVSTypeReference
             else if (moy >= 10 && moy < 14) Console.WriteLine("Assez bien");
             else if (moy >= 14 && moy < 16) Console.WriteLine("Bien");
             else if (moy >= 16 && moy <= 20) Console.WriteLine("Très Bien");
-            else  Console.WriteLine("Moyenne invalide!");
+            else  Console.WriteLine("Moyenne invalide!");*/
 
             //Console.WriteLine("Vous avez taper {0}", moy);
             //Console.WriteLine(moy + 2);
