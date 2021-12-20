@@ -28,7 +28,7 @@ namespace TypeValeurVSTypeReference
     {
         static void Main(string[] args)
         {
-
+            
             // correction exo 1 part 2
 
             Console.WriteLine("Citez un mois (en nombre) ?");

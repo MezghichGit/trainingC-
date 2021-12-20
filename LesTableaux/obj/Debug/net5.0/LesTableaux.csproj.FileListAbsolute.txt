@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\LesTableaux\bin\Debug\net5.0\LesTableaux.exe
+C:\Users\amine\Desktop\Lab\LesTableaux\bin\Debug\net5.0\LesTableaux.deps.json
+C:\Users\amine\Desktop\Lab\LesTableaux\bin\Debug\net5.0\LesTableaux.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\LesTableaux\bin\Debug\net5.0\LesTableaux.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\LesTableaux\bin\Debug\net5.0\LesTableaux.dll
+C:\Users\amine\Desktop\Lab\LesTableaux\bin\Debug\net5.0\ref\LesTableaux.dll
+C:\Users\amine\Desktop\Lab\LesTableaux\bin\Debug\net5.0\LesTableaux.pdb
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.dll
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\ref\LesTableaux.dll
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.pdb
+C:\Users\amine\Desktop\Lab\LesTableaux\obj\Debug\net5.0\LesTableaux.genruntimeconfig.cache
