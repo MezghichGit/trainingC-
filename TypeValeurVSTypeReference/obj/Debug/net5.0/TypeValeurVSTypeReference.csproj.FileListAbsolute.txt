@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\bin\Debug\net5.0\TypeValeurVSTypeReference.exe
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\bin\Debug\net5.0\TypeValeurVSTypeReference.deps.json
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\bin\Debug\net5.0\TypeValeurVSTypeReference.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\bin\Debug\net5.0\TypeValeurVSTypeReference.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\bin\Debug\net5.0\TypeValeurVSTypeReference.dll
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\bin\Debug\net5.0\ref\TypeValeurVSTypeReference.dll
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\bin\Debug\net5.0\TypeValeurVSTypeReference.pdb
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.dll
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\ref\TypeValeurVSTypeReference.dll
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.pdb
+C:\Users\amine\Desktop\Lab\TypeValeurVSTypeReference\obj\Debug\net5.0\TypeValeurVSTypeReference.genruntimeconfig.cache
