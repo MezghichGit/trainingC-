@@ -29,6 +29,30 @@ namespace TypeValeurVSTypeReference
         static void Main(string[] args)
         {
 
+            // correction exo 1 part 2
+
+            Console.WriteLine("Citez un mois (en nombre) ?");
+            string valeurMois = Console.ReadLine();
+
+            int mois = int.Parse(valeurMois);
+            Console.WriteLine("vous avez choisi ce moi : {0}", mois);
+
+            switch (mois)
+            {
+                case 1 or 2 or 3:
+                    Console.WriteLine("On est en hiver !"); break;
+                case 4 or 5 or 6:
+                    Console.WriteLine("On est au printemps !"); break;
+                case 7 or 8 or 9:
+                    Console.WriteLine("On est en été !"); break;
+                case 10 or 11 or 12:
+                    Console.WriteLine("On est en automne !"); break;
+                default:
+                    Console.WriteLine("vous êtes débiles !?!"); break;
+            }
+
+
+            /*
             Console.WriteLine("**************** Les matrices *************");
             int[,] mat = new int[2, 2];
             mat[0, 0] = 1;
