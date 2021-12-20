@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab1Ex1/1.0.0": {
+        "dependencies": {
+          "MessageProvider": "1.0.0"
+        },
+        "runtime": {
+          "Lab1Ex1.dll": {}
+        }
+      },
+      "MessageProvider/1.0.0": {
+        "runtime": {
+          "MessageProvider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1Ex1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessageProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

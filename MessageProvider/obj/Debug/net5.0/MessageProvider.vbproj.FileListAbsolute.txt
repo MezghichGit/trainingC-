@@ -1,0 +1,11 @@
+C:\Users\amine\Desktop\Lab\MessageProvider\bin\Debug\net5.0\MessageProvider.deps.json
+C:\Users\amine\Desktop\Lab\MessageProvider\bin\Debug\net5.0\MessageProvider.dll
+C:\Users\amine\Desktop\Lab\MessageProvider\bin\Debug\net5.0\ref\MessageProvider.dll
+C:\Users\amine\Desktop\Lab\MessageProvider\bin\Debug\net5.0\MessageProvider.pdb
+C:\Users\amine\Desktop\Lab\MessageProvider\obj\Debug\net5.0\MessageProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\MessageProvider\obj\Debug\net5.0\MessageProvider.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\MessageProvider\obj\Debug\net5.0\MessageProvider.AssemblyInfo.vb
+C:\Users\amine\Desktop\Lab\MessageProvider\obj\Debug\net5.0\MessageProvider.vbproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\MessageProvider\obj\Debug\net5.0\MessageProvider.dll
+C:\Users\amine\Desktop\Lab\MessageProvider\obj\Debug\net5.0\ref\MessageProvider.dll
+C:\Users\amine\Desktop\Lab\MessageProvider\obj\Debug\net5.0\MessageProvider.pdb
