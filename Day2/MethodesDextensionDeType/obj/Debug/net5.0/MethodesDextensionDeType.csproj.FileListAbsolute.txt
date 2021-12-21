@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\bin\Debug\net5.0\MethodesDextensionDeType.exe
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\bin\Debug\net5.0\MethodesDextensionDeType.deps.json
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\bin\Debug\net5.0\MethodesDextensionDeType.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\bin\Debug\net5.0\MethodesDextensionDeType.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\bin\Debug\net5.0\MethodesDextensionDeType.dll
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\bin\Debug\net5.0\ref\MethodesDextensionDeType.dll
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\bin\Debug\net5.0\MethodesDextensionDeType.pdb
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.dll
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\ref\MethodesDextensionDeType.dll
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.pdb
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.genruntimeconfig.cache

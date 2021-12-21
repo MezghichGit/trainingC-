@@ -32,14 +32,36 @@ namespace Surchage_methodes
             }
             Console.WriteLine("La somme = " + res);
         }
+
+        public static void moyenne(params double[] tab)
+        {
+            double somme = 0;
+            int i;
+
+            for (i = 0; i < tab.Length; i++)
+            {
+                somme = somme + tab[i];
+            }
+
+            Console.WriteLine("La moyenne est de " + somme / tab.Length);
+
+        }
+
         static void Main(string[] args)
         {
             //Console.WriteLine("Classe Calcul");
+            /*
             somme();
             somme(10);
             somme(10, 20);
             somme(10, 20,6);
-            somme(10, 20, 6,4);
+            somme(10, 20, 6,4);*/
+            /*
+            moyenne(10,15);
+            moyenne(10,20,40);*/
+
+            string formation = "formation c#";
+            Console.WriteLine(formation.ToUpper());
         }
     }
 }
