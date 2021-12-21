@@ -9,6 +9,8 @@ namespace Surchage_methodes
 
     class PassageDeParametres
     {
+        
+        
         public static void permut(ref int x,ref int y)
         {
             Console.WriteLine("valeurs de x = {0} et y = {1} avant permut",x,y);
@@ -18,8 +20,22 @@ namespace Surchage_methodes
             y = temp;
             Console.WriteLine("valeurs de x = {0} et y = {1} après permut", x, y);
         }
+
+        public static int somme(int x, int y, out int plusGrand)
+        {
+            if (x >= y) plusGrand = x;
+            else plusGrand = y;
+            return x + y;
+        }
         static void Main(string[] args)
         {
+            int max;
+            int res = somme(10, 20, out max);
+            Console.WriteLine("La somme = " + res);
+            Console.WriteLine("Le max = " + max);
+
+
+            /*
             int a = 10; int b = 20;
 
             Console.WriteLine("Avant permutation...");
@@ -31,7 +47,7 @@ namespace Surchage_methodes
             Console.WriteLine("Après permutation...");
             permut(ref a,ref b);
             Console.WriteLine("a = " + a);
-            Console.WriteLine("b = " + b);
+            Console.WriteLine("b = " + b);*/
         }
     }
 }
