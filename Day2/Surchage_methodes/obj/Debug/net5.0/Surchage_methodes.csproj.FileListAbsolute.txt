@@ -13,4 +13,3 @@ C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_meth
 C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\ref\Surchage_methodes.dll
 C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.pdb
 C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.genruntimeconfig.cache
-C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.csproj.AssemblyReference.cache

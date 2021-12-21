@@ -27,12 +27,48 @@ namespace Surchage_methodes
             else plusGrand = y;
             return x + y;
         }
+
+        static double moyenne(double[] tab, out double min, out double max)
+        {
+            double somme = 0;
+            min = tab[0];
+            max = tab[0];
+            for (int i = 0; i < tab.Length; i++)
+            {
+                if (tab[i] <= min)
+                {
+                    min = tab[i];
+                }
+                if (tab[i] >= max)
+                { max = tab[i]; }
+                somme = somme + tab[i];
+
+            }
+            return (somme / tab.Length);
+        }
+
+
+
         static void Main(string[] args)
         {
+            double[] tab = new double[3];
+            tab[0] = 12.5;
+            tab[1] = 14.5;
+            tab[2] = 16;
+
+            double grand, petit;
+            double res = moyenne(tab, out petit, out grand);
+
+            
+            double val = Math.Round(res, 2);
+
+            Console.WriteLine("La moyenne = " + val + " le min = " + petit + " le max = " + grand);
+
+            /*
             int max;
             int res = somme(10, 20, out max);
             Console.WriteLine("La somme = " + res);
-            Console.WriteLine("Le max = " + max);
+            Console.WriteLine("Le max = " + max);*/
 
 
             /*
