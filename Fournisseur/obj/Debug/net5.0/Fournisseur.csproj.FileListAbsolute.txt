@@ -1,0 +1,12 @@
+C:\Users\amine\Desktop\Lab\Fournisseur\bin\Debug\net5.0\Fournisseur.deps.json
+C:\Users\amine\Desktop\Lab\Fournisseur\bin\Debug\net5.0\Fournisseur.dll
+C:\Users\amine\Desktop\Lab\Fournisseur\bin\Debug\net5.0\ref\Fournisseur.dll
+C:\Users\amine\Desktop\Lab\Fournisseur\bin\Debug\net5.0\Fournisseur.pdb
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\Fournisseur.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\Fournisseur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\Fournisseur.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\Fournisseur.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\Fournisseur.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\Fournisseur.dll
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\ref\Fournisseur.dll
+C:\Users\amine\Desktop\Lab\Fournisseur\obj\Debug\net5.0\Fournisseur.pdb

@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\amine\Desktop\Lab\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\amine\Desktop\Lab\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\amine\Desktop\Lab\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\amine\Desktop\Lab\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\amine\Desktop\Lab\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
