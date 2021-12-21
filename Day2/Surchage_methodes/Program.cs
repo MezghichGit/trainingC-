@@ -7,8 +7,15 @@ namespace Surchage_methodes
         
         static void Main(string[] args)
         {
+
+            int x = 10;
+            double moy = 12.5;
+            String ch = new String("abc"); // dans le heap
+            string s = "formation";  // dans le stack
             Personne p = new Personne(); // appel au constructeur par défaut
-            
+
+            Console.WriteLine(x.GetHashCode());
+            Console.WriteLine(p.GetHashCode());
             /*
             Console.WriteLine("Nombre initiale d'instance créer = " + Voiture.nbV);
             Voiture v1 = new Voiture();  // appel au constructeur par défaut
