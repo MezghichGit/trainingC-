@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\bin\Debug\net5.0\Surchage_methodes.exe
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\bin\Debug\net5.0\Surchage_methodes.deps.json
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\bin\Debug\net5.0\Surchage_methodes.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\bin\Debug\net5.0\Surchage_methodes.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\bin\Debug\net5.0\Surchage_methodes.dll
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\bin\Debug\net5.0\ref\Surchage_methodes.dll
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\bin\Debug\net5.0\Surchage_methodes.pdb
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.dll
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\ref\Surchage_methodes.dll
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.pdb
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Day2\Surchage_methodes\obj\Debug\net5.0\Surchage_methodes.csproj.AssemblyReference.cache
