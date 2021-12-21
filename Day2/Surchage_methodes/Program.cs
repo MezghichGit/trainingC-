@@ -8,6 +8,8 @@ namespace Surchage_methodes
         static void Main(string[] args)
         {
 
+            const int y = 10;
+            //y++;
             int x = 10;
             double moy = 12.5;
             String ch = new String("abc"); // dans le heap

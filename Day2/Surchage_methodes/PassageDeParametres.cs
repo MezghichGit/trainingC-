@@ -47,10 +47,34 @@ namespace Surchage_methodes
             return (somme / tab.Length);
         }
 
+        public static void infoStagiaire(string nom, string orgFormation="GK Lyon", string lieu="Lyon")
+        {
+            Console.WriteLine("Stagiaire = " + nom);
+            Console.WriteLine("Organisme de formation = " + orgFormation);
+            Console.WriteLine("Lieu de formation = " + lieu);
+        }
 
 
+        public static void infoFormation(string libelle, string formateur, int duree)
+        {
+            Console.WriteLine("Libelle de la formation = " + libelle);
+            Console.WriteLine("Formateur = " + formateur);
+            Console.WriteLine("Durée de formation = " + duree);
+        }
         static void Main(string[] args)
         {
+            const int x = 10;
+
+            //infoFormation(formateur:"Amine",duree:8,libelle:"C#");
+
+            infoStagiaire("Amine", lieu:"Brest");
+            /*
+            infoStagiaire("Amine");
+            infoStagiaire("Olivier","GK Paris");
+            infoStagiaire("Thomas", "GK Lille", "Lille");*/
+
+
+            /*
             double[] tab = new double[3];
             tab[0] = 12.5;
             tab[1] = 14.5;
@@ -63,7 +87,7 @@ namespace Surchage_methodes
             double val = Math.Round(res, 2);
 
             Console.WriteLine("La moyenne = " + val + " le min = " + petit + " le max = " + grand);
-
+            */
             /*
             int max;
             int res = somme(10, 20, out max);
