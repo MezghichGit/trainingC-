@@ -12,5 +12,19 @@ namespace MethodesDextensionDeType
         {
             return str.Split(" ").Length;
         }
+
+        public static string FirstLetterUpperCase(this string str)
+        {
+            char first_letter = char.ToUpper(str[0]); // mettre la première lettre en majuscule
+            string result = first_letter + str.Substring(1);
+            return result;
+        }
+
+        public static string addDrFirst(this string name)
+        {
+            return ("Dr. " + name);
+        }
+
+
     }
 }

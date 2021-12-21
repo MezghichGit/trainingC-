@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\bin\Debug\net5.0\LesProperty.exe
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\bin\Debug\net5.0\LesProperty.deps.json
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\bin\Debug\net5.0\LesProperty.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\bin\Debug\net5.0\LesProperty.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\bin\Debug\net5.0\LesProperty.dll
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\bin\Debug\net5.0\ref\LesProperty.dll
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\bin\Debug\net5.0\LesProperty.pdb
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.dll
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\ref\LesProperty.dll
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.pdb
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Day2\LesProperty\obj\Debug\net5.0\LesProperty.csproj.AssemblyReference.cache

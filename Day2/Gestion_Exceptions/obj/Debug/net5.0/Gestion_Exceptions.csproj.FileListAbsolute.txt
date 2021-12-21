@@ -13,3 +13,4 @@ C:\Users\amine\Desktop\Lab\Day2\Gestion_Exceptions\obj\Debug\net5.0\Gestion_Exce
 C:\Users\amine\Desktop\Lab\Day2\Gestion_Exceptions\obj\Debug\net5.0\ref\Gestion_Exceptions.dll
 C:\Users\amine\Desktop\Lab\Day2\Gestion_Exceptions\obj\Debug\net5.0\Gestion_Exceptions.pdb
 C:\Users\amine\Desktop\Lab\Day2\Gestion_Exceptions\obj\Debug\net5.0\Gestion_Exceptions.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Day2\Gestion_Exceptions\obj\Debug\net5.0\Gestion_Exceptions.csproj.AssemblyReference.cache

@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gestion_Exceptions", "Gesti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodesDextensionDeType", "MethodesDextensionDeType\MethodesDextensionDeType.csproj", "{947355D2-5FC9-4419-A8FF-10AECC056F28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LesProperty", "LesProperty\LesProperty.csproj", "{31124CA5-A41D-4396-96CE-5C5C6F896817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{947355D2-5FC9-4419-A8FF-10AECC056F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{947355D2-5FC9-4419-A8FF-10AECC056F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{947355D2-5FC9-4419-A8FF-10AECC056F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31124CA5-A41D-4396-96CE-5C5C6F896817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31124CA5-A41D-4396-96CE-5C5C6F896817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31124CA5-A41D-4396-96CE-5C5C6F896817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31124CA5-A41D-4396-96CE-5C5C6F896817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

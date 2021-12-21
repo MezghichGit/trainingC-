@@ -13,3 +13,4 @@ C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\Method
 C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\ref\MethodesDextensionDeType.dll
 C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.pdb
 C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Day2\MethodesDextensionDeType\obj\Debug\net5.0\MethodesDextensionDeType.csproj.AssemblyReference.cache
