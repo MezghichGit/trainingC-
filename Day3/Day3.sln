@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapitre1_structure_enum", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo1", "Exo1\Exo1.csproj", "{FC324029-B406-4273-8CFE-CEF61D80A60D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurchargeOperateurs", "SurchargeOperateurs\SurchargeOperateurs.csproj", "{BB686085-3884-4114-A78B-E8F456EFF7C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FC324029-B406-4273-8CFE-CEF61D80A60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC324029-B406-4273-8CFE-CEF61D80A60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC324029-B406-4273-8CFE-CEF61D80A60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB686085-3884-4114-A78B-E8F456EFF7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB686085-3884-4114-A78B-E8F456EFF7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB686085-3884-4114-A78B-E8F456EFF7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB686085-3884-4114-A78B-E8F456EFF7C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

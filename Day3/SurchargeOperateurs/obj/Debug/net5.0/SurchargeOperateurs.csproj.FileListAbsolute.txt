@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.exe
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.deps.json
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.dll
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\bin\Debug\net5.0\ref\SurchargeOperateurs.dll
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\bin\Debug\net5.0\SurchargeOperateurs.pdb
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.dll
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\ref\SurchargeOperateurs.dll
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.pdb
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Day3\SurchargeOperateurs\obj\Debug\net5.0\SurchargeOperateurs.csproj.AssemblyReference.cache
