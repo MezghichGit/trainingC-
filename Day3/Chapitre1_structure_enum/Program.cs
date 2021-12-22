@@ -28,7 +28,7 @@ namespace Chapitre1_structure_enum
         }
     }
 
-    struct Personne {
+    struct Person {
     
         public string Nom {
             get;
@@ -39,9 +39,9 @@ namespace Chapitre1_structure_enum
     {
         static void Main(string[] args)
         {
-            Personne p1 = new Personne();
-            p1.Nom = "Amine";  // acces en mode set
-            Console.WriteLine("Vous êtes = " + p1.Nom); // acces en mode get
+            //Personne p1 = new Personne();
+            //p1.Nom = "Amine";  // acces en mode set
+           // Console.WriteLine("Vous êtes = " + p1.Nom); // acces en mode get
             /*
             CompteBancaire cb1 = new CompteBancaire(); // appel au constructeur par défaut
             cb1.infoCompte();

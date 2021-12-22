@@ -5,7 +5,6 @@ C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\bin\Debug\net5.0\Chapit
 C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\bin\Debug\net5.0\Chapitre1_structure_enum.dll
 C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\bin\Debug\net5.0\ref\Chapitre1_structure_enum.dll
 C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\bin\Debug\net5.0\Chapitre1_structure_enum.pdb
-C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\obj\Debug\net5.0\Chapitre1_structure_enum.csproj.AssemblyReference.cache
 C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\obj\Debug\net5.0\Chapitre1_structure_enum.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\obj\Debug\net5.0\Chapitre1_structure_enum.AssemblyInfoInputs.cache
 C:\Users\amine\Desktop\Lab\Day3\Chapitre1_structure_enum\obj\Debug\net5.0\Chapitre1_structure_enum.AssemblyInfo.cs
