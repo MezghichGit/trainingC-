@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapitre1_structure_enum", "Chapitre1_structure_enum\Chapitre1_structure_enum.csproj", "{79E73488-E946-4E24-8DB1-386D40C32E5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapitre1_structure_enum", "Chapitre1_structure_enum\Chapitre1_structure_enum.csproj", "{79E73488-E946-4E24-8DB1-386D40C32E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo1", "Exo1\Exo1.csproj", "{FC324029-B406-4273-8CFE-CEF61D80A60D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{79E73488-E946-4E24-8DB1-386D40C32E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79E73488-E946-4E24-8DB1-386D40C32E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79E73488-E946-4E24-8DB1-386D40C32E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC324029-B406-4273-8CFE-CEF61D80A60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC324029-B406-4273-8CFE-CEF61D80A60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC324029-B406-4273-8CFE-CEF61D80A60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC324029-B406-4273-8CFE-CEF61D80A60D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
