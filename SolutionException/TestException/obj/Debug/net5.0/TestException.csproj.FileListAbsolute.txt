@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\bin\Debug\net5.0\TestException.exe
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\bin\Debug\net5.0\TestException.deps.json
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\bin\Debug\net5.0\TestException.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\bin\Debug\net5.0\TestException.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\bin\Debug\net5.0\TestException.dll
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\bin\Debug\net5.0\ref\TestException.dll
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\bin\Debug\net5.0\TestException.pdb
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.dll
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\ref\TestException.dll
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.pdb
+C:\Users\amine\Desktop\Lab\SolutionException\TestException\obj\Debug\net5.0\TestException.genruntimeconfig.cache

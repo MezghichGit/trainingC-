@@ -1,0 +1,5 @@
+C:\Users\amine\Desktop\C#\Distribution\TestException.exe
+C:\Users\amine\Desktop\C#\Distribution\TestException.dll
+C:\Users\amine\Desktop\C#\Distribution\TestException.deps.json
+C:\Users\amine\Desktop\C#\Distribution\TestException.runtimeconfig.json
+C:\Users\amine\Desktop\C#\Distribution\TestException.pdb
