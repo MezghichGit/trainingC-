@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\bin\Debug\net5.0\Chapitre2_Collection.exe
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\bin\Debug\net5.0\Chapitre2_Collection.deps.json
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\bin\Debug\net5.0\Chapitre2_Collection.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\bin\Debug\net5.0\Chapitre2_Collection.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\bin\Debug\net5.0\Chapitre2_Collection.dll
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\bin\Debug\net5.0\ref\Chapitre2_Collection.dll
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\bin\Debug\net5.0\Chapitre2_Collection.pdb
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.dll
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\ref\Chapitre2_Collection.dll
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.pdb
+C:\Users\amine\Desktop\Lab\Day3\Chapitre2_Collection\obj\Debug\net5.0\Chapitre2_Collection.genruntimeconfig.cache
