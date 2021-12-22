@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\Day3\Exo2\bin\Debug\net5.0\Exo2.exe
+C:\Users\amine\Desktop\Lab\Day3\Exo2\bin\Debug\net5.0\Exo2.deps.json
+C:\Users\amine\Desktop\Lab\Day3\Exo2\bin\Debug\net5.0\Exo2.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day3\Exo2\bin\Debug\net5.0\Exo2.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day3\Exo2\bin\Debug\net5.0\Exo2.dll
+C:\Users\amine\Desktop\Lab\Day3\Exo2\bin\Debug\net5.0\ref\Exo2.dll
+C:\Users\amine\Desktop\Lab\Day3\Exo2\bin\Debug\net5.0\Exo2.pdb
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\Exo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\Exo2.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\Exo2.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\Exo2.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\Exo2.dll
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\ref\Exo2.dll
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\Exo2.pdb
+C:\Users\amine\Desktop\Lab\Day3\Exo2\obj\Debug\net5.0\Exo2.genruntimeconfig.cache

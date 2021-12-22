@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurchargeOperateurs", "Surc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapitre2_Collection", "Chapitre2_Collection\Chapitre2_Collection.csproj", "{636A98BE-EFD8-4AD4-9CE6-BCA2BC125181}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo2", "Exo2\Exo2.csproj", "{FB8B2B07-BD05-4A0A-BE52-C41CF82C0B6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{636A98BE-EFD8-4AD4-9CE6-BCA2BC125181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{636A98BE-EFD8-4AD4-9CE6-BCA2BC125181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{636A98BE-EFD8-4AD4-9CE6-BCA2BC125181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8B2B07-BD05-4A0A-BE52-C41CF82C0B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8B2B07-BD05-4A0A-BE52-C41CF82C0B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8B2B07-BD05-4A0A-BE52-C41CF82C0B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8B2B07-BD05-4A0A-BE52-C41CF82C0B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
