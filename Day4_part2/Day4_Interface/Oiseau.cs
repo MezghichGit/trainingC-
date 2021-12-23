@@ -12,5 +12,10 @@ namespace Day4_Interface
         {
             Console.WriteLine("Je vol");
         }
+
+        public string info()
+        {
+            return "je suis un oiseau";
+        }
     }
 }

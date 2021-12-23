@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\bin\Debug\net5.0\Comparaison.exe
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\bin\Debug\net5.0\Comparaison.deps.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\bin\Debug\net5.0\Comparaison.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\bin\Debug\net5.0\Comparaison.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\bin\Debug\net5.0\Comparaison.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\bin\Debug\net5.0\ref\Comparaison.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\bin\Debug\net5.0\Comparaison.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\ref\Comparaison.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\Comparaison\obj\Debug\net5.0\Comparaison.genruntimeconfig.cache

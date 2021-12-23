@@ -9,5 +9,7 @@ namespace Day4_Interface
     interface Animal
     {
         public void seDeplacer();
+
+        public string info();
     }
 }

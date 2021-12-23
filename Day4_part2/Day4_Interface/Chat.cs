@@ -12,5 +12,10 @@ namespace Day4_Interface
         {
             Console.WriteLine("Je cours sur 4 pattes");
         }
+
+        public string info()
+        {
+            return "je suis un chat";
+        }
     }
 }
