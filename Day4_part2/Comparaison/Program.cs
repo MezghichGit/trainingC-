@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace Comparaison
 {
@@ -29,13 +30,21 @@ namespace Comparaison
             CompteBancaire c1 = new CompteBancaire(20, "Amine", 1200);
             CompteBancaire c2 = new CompteBancaire(10, "Patrick", 4000);
             CompteBancaire c3 = new CompteBancaire(30, "Olivier", 100);
-            ArrayList comptes = new ArrayList();
+            List<CompteBancaire> comptes = new List<CompteBancaire>();
             comptes.Add(c1);
             comptes.Add(c2);
             comptes.Add(c3);
-           
+            //comptes.Add("Formation");
+            //comptes.Add(true);
+
+            foreach (object o in comptes)
+            {
+                CompteBancaire c = (CompteBancaire)o;
+                Console.WriteLine(c.Id + " " + c.Nom + " " + c.Solde);
+            }
 
 
+            /*
             Console.WriteLine("Tri selon le Solde");
             comptes.Sort(compSolde);
 
@@ -52,7 +61,7 @@ namespace Comparaison
             {
                 Console.WriteLine(c.Id + " " + c.Nom + " " + c.Solde);
             }
-
+            */
 
             // Exo Etudiants
             /*

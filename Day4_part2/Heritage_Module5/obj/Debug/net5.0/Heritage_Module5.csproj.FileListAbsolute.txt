@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\bin\Debug\net5.0\Heritage_Module5.exe
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\bin\Debug\net5.0\Heritage_Module5.deps.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\bin\Debug\net5.0\Heritage_Module5.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\bin\Debug\net5.0\Heritage_Module5.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\bin\Debug\net5.0\Heritage_Module5.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\bin\Debug\net5.0\ref\Heritage_Module5.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\bin\Debug\net5.0\Heritage_Module5.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\Heritage_Module5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\Heritage_Module5.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\Heritage_Module5.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\Heritage_Module5.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\Heritage_Module5.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\ref\Heritage_Module5.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\Heritage_Module5.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\Heritage_Module5\obj\Debug\net5.0\Heritage_Module5.genruntimeconfig.cache
