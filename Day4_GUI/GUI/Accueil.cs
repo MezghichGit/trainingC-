@@ -48,5 +48,25 @@ namespace GUI
 
             textBoxRes.Text = (Calcul.produit(a, b)).ToString();
         }
+
+        private void cmdDiv_Click(object sender, EventArgs e)
+        {
+            double a = double.Parse(textBoxE1.Text);
+            double b = double.Parse(textBoxE2.Text);
+            try
+            {
+                if (b == 0)
+                { throw new ArithmeticException("Attention division par Zéro"); }
+                else 
+                {
+                    textBoxRes.Text = (Calcul.div(a, b)).ToString();
+                }
+            }
+            catch (ArithmeticException ex)
+            {
+                MessageBox.Show(ex.Message, "Alerte", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
+            }
+            
+        }
     }
 }

@@ -144,6 +144,7 @@ namespace GUI
             this.cmdDiv.TabIndex = 4;
             this.cmdDiv.Text = "/";
             this.cmdDiv.UseVisualStyleBackColor = true;
+            this.cmdDiv.Click += new System.EventHandler(this.cmdDiv_Click);
             // 
             // cmdProd
             // 
