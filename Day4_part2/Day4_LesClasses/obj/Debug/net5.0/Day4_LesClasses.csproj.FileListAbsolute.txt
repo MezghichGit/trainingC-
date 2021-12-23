@@ -1,0 +1,5 @@
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_LesClasses\obj\Debug\net5.0\Day4_LesClasses.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_LesClasses\obj\Debug\net5.0\Day4_LesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_LesClasses\obj\Debug\net5.0\Day4_LesClasses.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_LesClasses\obj\Debug\net5.0\Day4_LesClasses.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_LesClasses\obj\Debug\net5.0\Day4_LesClasses.csproj.CoreCompileInputs.cache

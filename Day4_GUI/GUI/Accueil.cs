@@ -74,6 +74,7 @@ namespace GUI
 
         private void cmdQuitter_Click(object sender, EventArgs e)
         {
+           
             Application.Exit();
         }
 

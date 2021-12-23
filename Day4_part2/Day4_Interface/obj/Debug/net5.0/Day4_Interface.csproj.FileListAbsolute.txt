@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\bin\Debug\net5.0\Day4_Interface.exe
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\bin\Debug\net5.0\Day4_Interface.deps.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\bin\Debug\net5.0\Day4_Interface.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\bin\Debug\net5.0\Day4_Interface.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\bin\Debug\net5.0\Day4_Interface.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\bin\Debug\net5.0\ref\Day4_Interface.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\bin\Debug\net5.0\Day4_Interface.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\ref\Day4_Interface.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\Day4_Interface\obj\Debug\net5.0\Day4_Interface.genruntimeconfig.cache

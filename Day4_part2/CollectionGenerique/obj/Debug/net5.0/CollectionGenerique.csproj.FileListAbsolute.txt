@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\bin\Debug\net5.0\CollectionGenerique.exe
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\bin\Debug\net5.0\CollectionGenerique.deps.json
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\bin\Debug\net5.0\CollectionGenerique.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\bin\Debug\net5.0\CollectionGenerique.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\bin\Debug\net5.0\CollectionGenerique.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\bin\Debug\net5.0\ref\CollectionGenerique.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\bin\Debug\net5.0\CollectionGenerique.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\ref\CollectionGenerique.dll
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.pdb
+C:\Users\amine\Desktop\Lab\Day4_part2\CollectionGenerique\obj\Debug\net5.0\CollectionGenerique.genruntimeconfig.cache
