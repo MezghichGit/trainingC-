@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {
-      "BLL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/BLL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BLL.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "BLL/1.0.0": {
-      "type": "project",
-      "path": "../BLL/BLL.csproj",
-      "msbuildProject": "../BLL/BLL.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": [
-      "BLL >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\amine\\.nuget\\packages\\": {}
@@ -32,31 +13,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\GUI\\GUI.csproj",
-      "projectName": "GUI",
-      "projectPath": "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\GUI\\GUI.csproj",
+      "projectUniqueName": "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\BLL\\BLL.csproj",
+      "projectName": "BLL",
+      "projectPath": "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\amine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\GUI\\obj\\",
+      "outputPath": "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amine\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
-          "projectReferences": {
-            "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\amine\\Desktop\\Lab\\Day4_GUI\\BLL\\BLL.csproj"
-            }
-          }
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -66,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net5.0-windows7.0": {
-        "targetAlias": "net5.0-windows",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -81,9 +58,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"

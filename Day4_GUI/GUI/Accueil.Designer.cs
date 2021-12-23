@@ -153,6 +153,7 @@ namespace GUI
             this.cmdProd.TabIndex = 3;
             this.cmdProd.Text = "*";
             this.cmdProd.UseVisualStyleBackColor = true;
+            this.cmdProd.Click += new System.EventHandler(this.cmdProd_Click);
             // 
             // cmdMod
             // 

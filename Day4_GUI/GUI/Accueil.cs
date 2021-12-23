@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BLL;
 
 namespace GUI
 {
@@ -28,12 +29,24 @@ namespace GUI
             double a = double.Parse(textBoxE1.Text);
             double b = double.Parse(textBoxE2.Text);
 
-            textBoxRes.Text = (a + b).ToString();
+            textBoxRes.Text = (Calcul.somme(a,b)).ToString();
         }
 
         private void cmdDiff_Click(object sender, EventArgs e)
         {
+            double a = double.Parse(textBoxE1.Text);
+            double b = double.Parse(textBoxE2.Text);
 
+            textBoxRes.Text = (Calcul.diff(a, b)).ToString();
+
+        }
+
+        private void cmdProd_Click(object sender, EventArgs e)
+        {
+            double a = double.Parse(textBoxE1.Text);
+            double b = double.Parse(textBoxE2.Text);
+
+            textBoxRes.Text = (Calcul.produit(a, b)).ToString();
         }
     }
 }
