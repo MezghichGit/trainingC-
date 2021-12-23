@@ -1,0 +1,7 @@
+C:\Users\amine\Desktop\Lab\Ma_Calculatrice_GUI\GUI.exe
+C:\Users\amine\Desktop\Lab\Ma_Calculatrice_GUI\GUI.dll
+C:\Users\amine\Desktop\Lab\Ma_Calculatrice_GUI\GUI.deps.json
+C:\Users\amine\Desktop\Lab\Ma_Calculatrice_GUI\GUI.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Ma_Calculatrice_GUI\GUI.pdb
+C:\Users\amine\Desktop\Lab\Ma_Calculatrice_GUI\BLL.dll
+C:\Users\amine\Desktop\Lab\Ma_Calculatrice_GUI\BLL.pdb

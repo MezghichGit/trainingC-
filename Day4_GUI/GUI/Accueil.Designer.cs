@@ -164,6 +164,7 @@ namespace GUI
             this.cmdMod.TabIndex = 2;
             this.cmdMod.Text = "%";
             this.cmdMod.UseVisualStyleBackColor = true;
+            this.cmdMod.Click += new System.EventHandler(this.cmdMod_Click);
             // 
             // cmdDiff
             // 
@@ -205,6 +206,7 @@ namespace GUI
             this.cmdQuitter.TabIndex = 2;
             this.cmdQuitter.Text = "Quitter";
             this.cmdQuitter.UseVisualStyleBackColor = true;
+            this.cmdQuitter.Click += new System.EventHandler(this.cmdQuitter_Click);
             // 
             // cmdPuissance
             // 
@@ -214,6 +216,7 @@ namespace GUI
             this.cmdPuissance.TabIndex = 1;
             this.cmdPuissance.Text = "Puissance";
             this.cmdPuissance.UseVisualStyleBackColor = true;
+            this.cmdPuissance.Click += new System.EventHandler(this.cmdPuissance_Click);
             // 
             // cmdReset
             // 
@@ -223,6 +226,7 @@ namespace GUI
             this.cmdReset.TabIndex = 0;
             this.cmdReset.Text = "Reset";
             this.cmdReset.UseVisualStyleBackColor = true;
+            this.cmdReset.Click += new System.EventHandler(this.cmdReset_Click);
             // 
             // Accueil
             // 
