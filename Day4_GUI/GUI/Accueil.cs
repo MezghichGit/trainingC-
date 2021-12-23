@@ -21,5 +21,19 @@ namespace GUI
         {
 
         }
+
+        private void cmdAdd_Click(object sender, EventArgs e)
+        {
+       
+            double a = double.Parse(textBoxE1.Text);
+            double b = double.Parse(textBoxE2.Text);
+
+            textBoxRes.Text = (a + b).ToString();
+        }
+
+        private void cmdDiff_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

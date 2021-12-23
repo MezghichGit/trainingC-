@@ -171,6 +171,7 @@ namespace GUI
             this.cmdDiff.TabIndex = 1;
             this.cmdDiff.Text = "-";
             this.cmdDiff.UseVisualStyleBackColor = true;
+            this.cmdDiff.Click += new System.EventHandler(this.cmdDiff_Click);
             // 
             // cmdAdd
             // 
@@ -180,6 +181,7 @@ namespace GUI
             this.cmdAdd.TabIndex = 0;
             this.cmdAdd.Text = "+";
             this.cmdAdd.UseVisualStyleBackColor = true;
+            this.cmdAdd.Click += new System.EventHandler(this.cmdAdd_Click);
             // 
             // groupBox3
             // 
