@@ -1,0 +1,16 @@
+C:\Users\amine\source\repos\Day4\LesEvenements\bin\Debug\net5.0\LesEvenements.exe
+C:\Users\amine\source\repos\Day4\LesEvenements\bin\Debug\net5.0\LesEvenements.deps.json
+C:\Users\amine\source\repos\Day4\LesEvenements\bin\Debug\net5.0\LesEvenements.runtimeconfig.json
+C:\Users\amine\source\repos\Day4\LesEvenements\bin\Debug\net5.0\LesEvenements.runtimeconfig.dev.json
+C:\Users\amine\source\repos\Day4\LesEvenements\bin\Debug\net5.0\LesEvenements.dll
+C:\Users\amine\source\repos\Day4\LesEvenements\bin\Debug\net5.0\ref\LesEvenements.dll
+C:\Users\amine\source\repos\Day4\LesEvenements\bin\Debug\net5.0\LesEvenements.pdb
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.csproj.AssemblyReference.cache
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.AssemblyInfo.cs
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.dll
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\ref\LesEvenements.dll
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.pdb
+C:\Users\amine\source\repos\Day4\LesEvenements\obj\Debug\net5.0\LesEvenements.genruntimeconfig.cache
