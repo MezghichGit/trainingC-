@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chapitre3_LesStrams/1.0.0": {
+        "runtime": {
+          "Chapitre3_LesStrams.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapitre3_LesStrams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

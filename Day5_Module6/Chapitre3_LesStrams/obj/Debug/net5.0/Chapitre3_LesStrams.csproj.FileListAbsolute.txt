@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\bin\Debug\net5.0\Chapitre3_LesStrams.exe
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\bin\Debug\net5.0\Chapitre3_LesStrams.deps.json
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\bin\Debug\net5.0\Chapitre3_LesStrams.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\bin\Debug\net5.0\Chapitre3_LesStrams.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\bin\Debug\net5.0\Chapitre3_LesStrams.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\bin\Debug\net5.0\ref\Chapitre3_LesStrams.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\bin\Debug\net5.0\Chapitre3_LesStrams.pdb
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\Chapitre3_LesStrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\Chapitre3_LesStrams.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\Chapitre3_LesStrams.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\Chapitre3_LesStrams.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\Chapitre3_LesStrams.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\ref\Chapitre3_LesStrams.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\Chapitre3_LesStrams.pdb
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre3_LesStrams\obj\Debug\net5.0\Chapitre3_LesStrams.genruntimeconfig.cache

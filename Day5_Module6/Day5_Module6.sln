@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapitre1_LesFichiers", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_Deserialization", "Serialization_Deserialization\Serialization_Deserialization.csproj", "{9DFA9894-61DC-4197-B8C3-A19C119400B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapitre3_LesStrams", "Chapitre3_LesStrams\Chapitre3_LesStrams.csproj", "{81353B74-1400-4F1A-95D5-13DA3A8EF6AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9DFA9894-61DC-4197-B8C3-A19C119400B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DFA9894-61DC-4197-B8C3-A19C119400B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DFA9894-61DC-4197-B8C3-A19C119400B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81353B74-1400-4F1A-95D5-13DA3A8EF6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81353B74-1400-4F1A-95D5-13DA3A8EF6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81353B74-1400-4F1A-95D5-13DA3A8EF6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81353B74-1400-4F1A-95D5-13DA3A8EF6AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
