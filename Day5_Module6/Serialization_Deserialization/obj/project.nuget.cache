@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9oBBZ582yt2k0nEATUHQuz08GY5uqnhNRalY0eErdHwUIK/YpfMeIc90qxs9LjKhKd+ifMW/RrKkLj9oJDhIdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amine\\Desktop\\Lab\\Day5_Module6\\Serialization_Deserialization\\Serialization_Deserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amine\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
