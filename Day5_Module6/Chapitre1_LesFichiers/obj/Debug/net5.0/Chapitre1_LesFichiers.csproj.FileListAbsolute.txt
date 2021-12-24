@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\bin\Debug\net5.0\Chapitre1_LesFichiers.exe
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\bin\Debug\net5.0\Chapitre1_LesFichiers.deps.json
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\bin\Debug\net5.0\Chapitre1_LesFichiers.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\bin\Debug\net5.0\Chapitre1_LesFichiers.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\bin\Debug\net5.0\Chapitre1_LesFichiers.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\bin\Debug\net5.0\ref\Chapitre1_LesFichiers.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\bin\Debug\net5.0\Chapitre1_LesFichiers.pdb
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\Chapitre1_LesFichiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\Chapitre1_LesFichiers.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\Chapitre1_LesFichiers.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\Chapitre1_LesFichiers.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\Chapitre1_LesFichiers.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\ref\Chapitre1_LesFichiers.dll
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\Chapitre1_LesFichiers.pdb
+C:\Users\amine\Desktop\Lab\Day5_Module6\Chapitre1_LesFichiers\obj\Debug\net5.0\Chapitre1_LesFichiers.genruntimeconfig.cache

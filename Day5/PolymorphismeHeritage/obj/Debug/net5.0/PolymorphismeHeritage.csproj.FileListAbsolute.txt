@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\bin\Debug\net5.0\PolymorphismeHeritage.exe
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\bin\Debug\net5.0\PolymorphismeHeritage.deps.json
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\bin\Debug\net5.0\PolymorphismeHeritage.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\bin\Debug\net5.0\PolymorphismeHeritage.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\bin\Debug\net5.0\PolymorphismeHeritage.dll
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\bin\Debug\net5.0\ref\PolymorphismeHeritage.dll
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\bin\Debug\net5.0\PolymorphismeHeritage.pdb
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.dll
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\ref\PolymorphismeHeritage.dll
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.pdb
+C:\Users\amine\Desktop\Lab\Day5\PolymorphismeHeritage\obj\Debug\net5.0\PolymorphismeHeritage.genruntimeconfig.cache
