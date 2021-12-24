@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Day5\Heritage\bin\Debug\net5.0\Heritage.exe
+C:\Users\amine\Desktop\Lab\Day5\Heritage\bin\Debug\net5.0\Heritage.deps.json
+C:\Users\amine\Desktop\Lab\Day5\Heritage\bin\Debug\net5.0\Heritage.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Day5\Heritage\bin\Debug\net5.0\Heritage.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Day5\Heritage\bin\Debug\net5.0\Heritage.dll
+C:\Users\amine\Desktop\Lab\Day5\Heritage\bin\Debug\net5.0\ref\Heritage.dll
+C:\Users\amine\Desktop\Lab\Day5\Heritage\bin\Debug\net5.0\Heritage.pdb
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.dll
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\ref\Heritage.dll
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.pdb
+C:\Users\amine\Desktop\Lab\Day5\Heritage\obj\Debug\net5.0\Heritage.genruntimeconfig.cache
