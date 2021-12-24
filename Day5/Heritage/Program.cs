@@ -6,7 +6,23 @@ namespace Heritage
     {
         static void Main(string[] args)
         {
+          
+            Produit p = new Produit("Jus", 100, new DateTime(2021, 12, 26, 8, 30, 52)
+);
 
+            try
+            {
+                p.verifProduit();
+            }
+            catch (ProduitExpireException exception)
+            {
+                Console.WriteLine(exception.Message);
+            }
+            Console.WriteLine("Fin programme");
+
+
+
+            /*
             Produit p = new Produit("PC", 20);
 
             try
@@ -16,9 +32,9 @@ namespace Heritage
             catch (ProduitEpuiseException e)
             {
                 Console.WriteLine(e.Message);
-            }
+            }*/
 
-            Console.WriteLine("Suite du programme...");
+            
             /*C instance = new C(10, 20);
             Console.ReadLine();*/
             //BB b = new BB();
