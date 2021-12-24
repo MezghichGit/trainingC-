@@ -2,6 +2,8 @@
 using System;
 using System.IO;
 using System.Text;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace Serialization_Deserialization
 {
@@ -25,6 +27,7 @@ namespace Serialization_Deserialization
 
             // Correction exo 2
 
+            /*
             Etudiant e1 = new Etudiant("Amine", 22);
             Etudiant e2 = new Etudiant("Olivier", 21);
 
@@ -58,7 +61,46 @@ namespace Serialization_Deserialization
                 Console.WriteLine(e.Name+" "+e.Age);
 
             }
+            */
 
+            // Exo 3
+
+            CompteBancaire cb = new CompteBancaire();
+            string path = @"C:\Users\amine\Desktop\Lab\cb.txt";
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Entrez le propriétaire du compte");
+                cb.Prop = Console.ReadLine();
+                Console.WriteLine("Entrez le solde de ce compte");
+                cb.Solde = Double.Parse(Console.ReadLine()); // conversion
+
+                string output = JsonConvert.SerializeObject(cb) + Environment.NewLine;
+
+                if (!File.Exists(path))
+                {
+                    // Create a file to write to.
+                    File.WriteAllText(path, output, Encoding.UTF8); // creation
+                }
+                else
+                {
+                    File.AppendAllText(path, output, Encoding.UTF8); // ajout
+                }
+            }
+
+            List<CompteBancaire> list = new List<CompteBancaire>(); // Liste générique
+
+            foreach (string line in File.ReadAllLines(path))
+            {
+                CompteBancaire deserialized_cb = JsonConvert.DeserializeObject<CompteBancaire>(line);
+                list.Add(deserialized_cb);
+            }
+
+            list.Sort();  // tri décsoissant sur le solde du compte
+            foreach (CompteBancaire c in list)
+            { 
+                c.print(); 
+            }
 
         }
     }
