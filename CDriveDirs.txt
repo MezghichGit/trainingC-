@@ -5,6 +5,9 @@ Day3
 Day4
 Day4_GUI
 Day4_part2
+Day5
+Day5_Module6
+Exo
 Fournisseur
 HelloWorld
 Lab1Ex1
