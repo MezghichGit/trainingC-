@@ -4,6 +4,8 @@ using System.IO;
 using System.Text;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Runtime.Serialization;
 
 namespace Serialization_Deserialization
 {
@@ -64,7 +66,7 @@ namespace Serialization_Deserialization
             */
 
             // Exo 3
-
+            /*
             CompteBancaire cb = new CompteBancaire();
             string path = @"C:\Users\amine\Desktop\Lab\cb.txt";
 
@@ -101,7 +103,39 @@ namespace Serialization_Deserialization
             { 
                 c.print(); 
             }
+            */
 
+            //Exemple de sérialization vers un format Binaire
+
+            string fileName = @"C:\Users\amine\Desktop\Lab\dataStuff.myData";
+
+            // Use a BinaryFormatter or SoapFormatter.
+            IFormatter formatter = new BinaryFormatter();
+            //IFormatter formatter = new SoapFormatter();
+
+            Program.SerializeItem(fileName, formatter); // Serialize an instance of the class.
+            Program.DeserializeItem(fileName, formatter); // Deserialize the instance.
+            Console.WriteLine("Done");
+            Console.ReadLine();
+        }
+
+
+        public static void SerializeItem(string fileName, IFormatter formatter)
+        {
+            // Create an instance of the type and serialize it.
+            MyItemType t = new MyItemType();
+            t.MyProperty = "Hello World";
+
+            FileStream s = new FileStream(fileName, FileMode.Create);
+            formatter.Serialize(s, t);
+            s.Close();
+        }
+
+        public static void DeserializeItem(string fileName, IFormatter formatter)
+        {
+            FileStream s = new FileStream(fileName, FileMode.Open);
+            MyItemType t = (MyItemType)formatter.Deserialize(s);
+            Console.WriteLine(t.MyProperty);
         }
     }
 }
