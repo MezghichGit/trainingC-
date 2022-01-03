@@ -20,6 +20,23 @@ namespace CRUD_Classique
                 connexion = new SqlConnection(connectionString);
                 connexion.Open();
 
+                // Insertion dans la table Cours
+                /*
+                Console.WriteLine("Donner le libellé du Cours");
+                String libelle = Console.ReadLine();
+                
+                Console.WriteLine("Donner le VH du Cours");
+                int vh = int.Parse(Console.ReadLine());
+
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = connexion;
+                cmd.CommandText = "INSERT INTO Cours(Libelle,Vh) VALUES(@libelle,@vh)";
+                cmd.Prepare();
+                cmd.Parameters.AddWithValue("@libelle", libelle);
+                cmd.Parameters.AddWithValue("@vh", vh);
+            
+                cmd.ExecuteNonQuery();
+                */
 
                 // Insertion dans la table Etudiants
 
@@ -58,30 +75,31 @@ namespace CRUD_Classique
 
                 // Update de la table articles
 
-                
+                Console.WriteLine("Donner le nouveau libellé du Cours 1");
+                String newLibelle = Console.ReadLine();
+
                 SqlCommand cmd3 = new SqlCommand();
                 cmd3.Connection = connexion;
-                cmd3.CommandText = "UPDATE Etudiants Set Nom=@nouveau, Age=@newAge where Id=@id";
+                cmd3.CommandText = "UPDATE Cours Set Libelle=@newLibelle where Id=@id";
                 cmd3.Prepare();
-                cmd3.Parameters.AddWithValue("@nouveau", "Omar");
-                cmd3.Parameters.AddWithValue("@newAge", "24");
-                cmd3.Parameters.AddWithValue("@id", "3");
+                cmd3.Parameters.AddWithValue("@newLibelle", newLibelle);
+                cmd3.Parameters.AddWithValue("@id", 1);
                 cmd3.ExecuteNonQuery();
                 
                 //****************************************************************************/
 
                 // requeste SELECT
-                string stm = "SELECT * FROM Etudiants";
+                string stm = "SELECT * FROM Cours";
                 // On crée la commande
                 SqlCommand cmd2 = new SqlCommand(stm, connexion);
                 // On crée la reader pour contenir le résultat de la commande (requete SELECT)
                 rdr = cmd2.ExecuteReader();
 
-                Console.WriteLine("{0}:{1}:{2}:{3}", rdr.GetName(0), rdr.GetName(1), rdr.GetName(2), rdr.GetName(3));
+                Console.WriteLine("{0}:{1}:{2}", rdr.GetName(0), rdr.GetName(1), rdr.GetName(2));
 
                 while (rdr.Read())
                 {
-                    Console.WriteLine(rdr.GetInt32(0) + ":" + rdr.GetString(1) + ":" + rdr.GetInt32(2) + ":" + rdr.GetString(3));
+                    Console.WriteLine(rdr.GetInt32(0) + ":" + rdr.GetString(1) + ":" + rdr.GetInt32(2));
                 }
 
 
