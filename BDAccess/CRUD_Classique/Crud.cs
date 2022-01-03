@@ -74,7 +74,7 @@ namespace CRUD_Classique
 
 
                 // Update de la table articles
-
+                /*
                 Console.WriteLine("Donner le nouveau libellé du Cours 1");
                 String newLibelle = Console.ReadLine();
 
@@ -84,22 +84,23 @@ namespace CRUD_Classique
                 cmd3.Prepare();
                 cmd3.Parameters.AddWithValue("@newLibelle", newLibelle);
                 cmd3.Parameters.AddWithValue("@id", 1);
-                cmd3.ExecuteNonQuery();
+                cmd3.ExecuteNonQuery();*/
                 
                 //****************************************************************************/
 
                 // requeste SELECT
-                string stm = "SELECT * FROM Cours";
+                string stm = "SELECT Libelle, Vh FROM Cours";
                 // On crée la commande
                 SqlCommand cmd2 = new SqlCommand(stm, connexion);
                 // On crée la reader pour contenir le résultat de la commande (requete SELECT)
                 rdr = cmd2.ExecuteReader();
 
-                Console.WriteLine("{0}:{1}:{2}", rdr.GetName(0), rdr.GetName(1), rdr.GetName(2));
-
+                //Console.WriteLine("{0}:{1}:{2}", rdr.GetName(0), rdr.GetName(1), rdr.GetName(2));
+                Console.WriteLine("{0}:{1}", rdr.GetName(0), rdr.GetName(1));
                 while (rdr.Read())
                 {
-                    Console.WriteLine(rdr.GetInt32(0) + ":" + rdr.GetString(1) + ":" + rdr.GetInt32(2));
+                    //Console.WriteLine(rdr.GetInt32(0) + ":" + rdr.GetString(1) + ":" + rdr.GetInt32(2));
+                    Console.WriteLine( rdr.GetString(0) + ":" + rdr.GetInt32(1));
                 }
 
 

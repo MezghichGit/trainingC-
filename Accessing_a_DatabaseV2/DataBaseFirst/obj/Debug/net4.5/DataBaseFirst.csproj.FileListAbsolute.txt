@@ -1,0 +1,5 @@
+C:\Users\amine\source\repos\Accessing_a_DatabaseV2\DataBaseFirst\obj\Debug\net4.5\DataBaseFirst.csproj.AssemblyReference.cache
+C:\Users\amine\source\repos\Accessing_a_DatabaseV2\DataBaseFirst\obj\Debug\net4.5\DataBaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\source\repos\Accessing_a_DatabaseV2\DataBaseFirst\obj\Debug\net4.5\DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\Accessing_a_DatabaseV2\DataBaseFirst\obj\Debug\net4.5\DataBaseFirst.AssemblyInfo.cs
+C:\Users\amine\source\repos\Accessing_a_DatabaseV2\DataBaseFirst\obj\Debug\net4.5\DataBaseFirst.csproj.CoreCompileInputs.cache

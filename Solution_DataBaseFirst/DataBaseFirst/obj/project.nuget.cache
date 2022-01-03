@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NToM8jejK1UgEZY1YqHSsBAnzRIsAZSPDlIRQ2jEwTNJNym3mf75r+fE4KGQ2l/j+uaWPUYQNVUywjW7eBrWpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amine\\Desktop\\Lab\\Solution_DataBaseFirst\\DataBaseFirst\\DataBaseFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amine\\.nuget\\packages\\entityframework\\4.2.0\\entityframework.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
