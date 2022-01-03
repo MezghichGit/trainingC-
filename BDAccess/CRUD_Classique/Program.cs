@@ -20,19 +20,19 @@ namespace CRUD_Classique
 
 
                 // requeste SELECT
-                string stm = "SELECT * FROM Etudiants"; // requette SQL
-
+                //string stm = "SELECT * FROM Etudiants"; // requette SQL
+                string stm = "SELECT * FROM Cours";
                 // On crée la commande
                 SqlCommand cmd = new SqlCommand(stm, connexion);
                 // On crée la reader pour contenir le résultat de la commande (requete SELECT)
                 rdr = cmd.ExecuteReader();
 
 
-                Console.WriteLine("{0}:{1}:{2}:{3}", rdr.GetName(0), rdr.GetName(1), rdr.GetName(2), rdr.GetName(3));
-
+                //Console.WriteLine("{0}:{1}:{2}:{3}", rdr.GetName(0), rdr.GetName(1), rdr.GetName(2), rdr.GetName(3));
+                Console.WriteLine("{0}:{1}:{2}", rdr.GetName(0), rdr.GetName(1), rdr.GetName(2));
                 while (rdr.Read())
                 {
-                    Console.WriteLine(rdr.GetInt32(0) + ":" + rdr.GetString(1) + ":" + rdr.GetInt32(2) + ":" + rdr.GetString(3));
+                    Console.WriteLine(rdr.GetInt32(0) + ":" + rdr.GetString(1) + ":" + rdr.GetInt32(2));
                 }
 
 
