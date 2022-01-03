@@ -1,0 +1,227 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "EntityFramework/6.4.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "build": {
+          "buildTransitive/EntityFramework.props": {},
+          "buildTransitive/EntityFramework.targets": {}
+        }
+      },
+      "EntityFramework.fr/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "EntityFramework": "[6.2.0]"
+        },
+        "resource": {
+          "lib/net45/fr/EntityFramework.SqlServer.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net45/fr/EntityFramework.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win7-x86": {
+      "EntityFramework/6.4.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "build": {
+          "buildTransitive/EntityFramework.props": {},
+          "buildTransitive/EntityFramework.targets": {}
+        }
+      },
+      "EntityFramework.fr/6.2.0": {
+        "type": "package",
+        "dependencies": {
+          "EntityFramework": "[6.2.0]"
+        },
+        "resource": {
+          "lib/net45/fr/EntityFramework.SqlServer.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net45/fr/EntityFramework.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityFramework/6.4.4": {
+      "sha512": "yj1+/4tci7Panu3jKDHYizxwVm0Jvm7b7m057b5h4u8NUHGCR8WIWirBTw+8EptRffwftIWPBeIRGNKD1ewEMQ==",
+      "type": "package",
+      "path": "entityframework/6.4.4",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/EntityFramework.DefaultItems.props",
+        "build/EntityFramework.props",
+        "build/EntityFramework.targets",
+        "build/Microsoft.Data.Entity.Build.Tasks.dll",
+        "build/netcoreapp3.0/EntityFramework.props",
+        "build/netcoreapp3.0/EntityFramework.targets",
+        "buildTransitive/EntityFramework.props",
+        "buildTransitive/EntityFramework.targets",
+        "buildTransitive/netcoreapp3.0/EntityFramework.props",
+        "buildTransitive/netcoreapp3.0/EntityFramework.targets",
+        "content/net40/App.config.install.xdt",
+        "content/net40/App.config.transform",
+        "content/net40/Web.config.install.xdt",
+        "content/net40/Web.config.transform",
+        "entityframework.6.4.4.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.SqlServer.dll",
+        "lib/net40/EntityFramework.SqlServer.xml",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "lib/net45/EntityFramework.SqlServer.dll",
+        "lib/net45/EntityFramework.SqlServer.xml",
+        "lib/net45/EntityFramework.dll",
+        "lib/net45/EntityFramework.xml",
+        "lib/netstandard2.1/EntityFramework.SqlServer.dll",
+        "lib/netstandard2.1/EntityFramework.SqlServer.xml",
+        "lib/netstandard2.1/EntityFramework.dll",
+        "lib/netstandard2.1/EntityFramework.xml",
+        "tools/EntityFramework6.PS2.psd1",
+        "tools/EntityFramework6.PS2.psm1",
+        "tools/EntityFramework6.psd1",
+        "tools/EntityFramework6.psm1",
+        "tools/about_EntityFramework6.help.txt",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/net40/any/ef6.exe",
+        "tools/net40/any/ef6.pdb",
+        "tools/net40/win-x86/ef6.exe",
+        "tools/net40/win-x86/ef6.pdb",
+        "tools/net45/any/ef6.exe",
+        "tools/net45/any/ef6.pdb",
+        "tools/net45/win-x86/ef6.exe",
+        "tools/net45/win-x86/ef6.pdb",
+        "tools/netcoreapp3.0/any/ef6.dll",
+        "tools/netcoreapp3.0/any/ef6.pdb",
+        "tools/netcoreapp3.0/any/ef6.runtimeconfig.json"
+      ]
+    },
+    "EntityFramework.fr/6.2.0": {
+      "sha512": "zE3z3ovWc/2RHYQwalONJcHJz/1T62QZLvrJqMcUg/tGnhVJQBoD0E3lnQgKXHfWQMruF1zLAkxZpPlEB7W2TQ==",
+      "type": "package",
+      "path": "entityframework.fr/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "entityframework.fr.6.2.0.nupkg.sha512",
+        "entityframework.fr.nuspec",
+        "lib/net40/fr/EntityFramework.SqlServer.resources.dll",
+        "lib/net40/fr/EntityFramework.SqlServer.xml",
+        "lib/net40/fr/EntityFramework.resources.dll",
+        "lib/net40/fr/EntityFramework.xml",
+        "lib/net45/fr/EntityFramework.SqlServer.resources.dll",
+        "lib/net45/fr/EntityFramework.SqlServer.xml",
+        "lib/net45/fr/EntityFramework.resources.dll",
+        "lib/net45/fr/EntityFramework.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "EntityFramework >= 6.4.4",
+      "EntityFramework.fr >= 6.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\amine\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\amine\\Desktop\\Lab\\DataBaseFirstSolution\\DataBaseFirst\\DataBaseFirst.csproj",
+      "projectName": "DataBaseFirst",
+      "projectPath": "C:\\Users\\amine\\Desktop\\Lab\\DataBaseFirstSolution\\DataBaseFirst\\DataBaseFirst.csproj",
+      "packagesPath": "C:\\Users\\amine\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amine\\Desktop\\Lab\\DataBaseFirstSolution\\DataBaseFirst\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\amine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net4.5",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "targetAlias": "net4.5",
+        "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[6.4.4, )"
+          },
+          "EntityFramework.fr": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Version du package détectée en dehors de la contrainte de dépendance : EntityFramework.fr 6.2.0 nécessite EntityFramework (= 6.2.0) alors que la version EntityFramework 6.4.4 a été résolue.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5",
+        ".NETFramework,Version=v4.5/win7-x86"
+      ]
+    }
+  ]
+}

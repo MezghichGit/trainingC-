@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/SZney4nJiEPwKPtonOphxlxhl2hilaLWAXBA+4PxUAudsVR0U9/3TQ+DiRFtqGAEO9Ik5WyrHIeSjhdJ5Jbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amine\\Desktop\\Lab\\DataBaseFirstSolution\\DataBaseFirst\\DataBaseFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amine\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\amine\\.nuget\\packages\\entityframework.fr\\6.2.0\\entityframework.fr.6.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Version du package détectée en dehors de la contrainte de dépendance : EntityFramework.fr 6.2.0 nécessite EntityFramework (= 6.2.0) alors que la version EntityFramework 6.4.4 a été résolue.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5",
+        ".NETFramework,Version=v4.5/win7-x86"
+      ]
+    }
+  ]
+}
