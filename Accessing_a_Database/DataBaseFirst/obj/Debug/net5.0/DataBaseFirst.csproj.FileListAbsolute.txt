@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\bin\Debug\net5.0\DataBaseFirst.exe
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\bin\Debug\net5.0\DataBaseFirst.deps.json
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\bin\Debug\net5.0\DataBaseFirst.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\bin\Debug\net5.0\DataBaseFirst.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\bin\Debug\net5.0\DataBaseFirst.dll
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\bin\Debug\net5.0\ref\DataBaseFirst.dll
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\bin\Debug\net5.0\DataBaseFirst.pdb
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.dll
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\ref\DataBaseFirst.dll
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.pdb
+C:\Users\amine\Desktop\Lab\Accessing_a_Database\DataBaseFirst\obj\Debug\net5.0\DataBaseFirst.genruntimeconfig.cache
