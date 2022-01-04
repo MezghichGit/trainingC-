@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GestionEcole.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,24 @@ namespace GestionEcole
     /// </summary>
     public partial class MainWindow : Window
     {
+        Groupe groupe = new Groupe { Libelle = "Nom du groupe", Nombre = 0 };
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = groupe;
+        }
+
+        private void btnAddGroupe(object sender, RoutedEventArgs e)
+        {
+            using (var db = new EFContext())
+            {
+       
+                db.Add(groupe);
+
+                db.SaveChanges();
+            }
+
+            MessageBox.Show("Ajout avec succès", "Félicitations");
         }
     }
 }

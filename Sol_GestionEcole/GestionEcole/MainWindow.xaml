@@ -5,8 +5,39 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GestionEcole"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Gestion de mon école" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Margin="10,28,45,45">
+            <Label x:Name="labelGroupe" Content="Ajouter un Groupe
+                   " Background="#FFD74C4C" HorizontalAlignment="Center" VerticalAlignment="Center" Height="32" FontFamily="Arial Black" FontSize="20" Margin="0,0,0,0"/>
+            <WrapPanel Height="110" Width="330">
+                <Label Margin="1,28,45,45" Content="Libellé du Groupe" RenderTransformOrigin="0.673,1.442" Width="120" Height="40"/>
+                <TextBox Text = "{Binding Libelle, Mode = TwoWay}" TextWrapping="Wrap" Width="160" Height="38"/>
+            </WrapPanel>
+            <WrapPanel Height="133" Margin="10,10,10,10">
+                <Label Content="Nombre d'étudiant"/>
+                <TextBox Text = "{Binding Nombre, Mode = TwoWay}" TextWrapping="Wrap" Width="204" Height="43"/>
+            </WrapPanel>
+            <Button Content="Ajouter" Height="44" RenderTransformOrigin="0.5,0.5" Width="183" Background="#FF17C71F" FontFamily="Arial Black" FontSize="20" Click="btnAddGroupe">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="10,28,23,0">
+            <Label Content="Ajouter un nouvel Etudiant" Background="#FF2FCB25" FontFamily="Arial Black" FontSize="20" Height="32" RenderTransformOrigin="0.689,0.426"/>
+        </StackPanel>
 
     </Grid>
 </Window>
