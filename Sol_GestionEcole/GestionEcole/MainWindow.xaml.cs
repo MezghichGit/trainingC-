@@ -40,5 +40,11 @@ namespace GestionEcole
 
             MessageBox.Show("Ajout avec succès", "Félicitations");
         }
+
+        private void show_groupes(object sender, RoutedEventArgs e)
+        {
+            var listGroupe = new ListeGroupe();
+            listGroupe.Show();
+        }
     }
 }

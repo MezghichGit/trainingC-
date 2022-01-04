@@ -12,7 +12,7 @@
             <ColumnDefinition Width="*"/>
 
         </Grid.ColumnDefinitions>
-        <StackPanel Grid.Column="0" Margin="10,28,45,45">
+        <StackPanel Grid.Column="0" Margin="10,28,45,10">
             <Label x:Name="labelGroupe" Content="Ajouter un Groupe
                    " Background="#FFD74C4C" HorizontalAlignment="Center" VerticalAlignment="Center" Height="32" FontFamily="Arial Black" FontSize="20" Margin="0,0,0,0"/>
             <WrapPanel Height="110" Width="330">
@@ -33,6 +33,7 @@
                     </TransformGroup>
                 </Button.RenderTransform>
             </Button>
+            <Button x:Name="BtnListGroupe" Background="red" Content="Liste des groupe" Width="206" Margin="10,10,10,10" Height="31" Click="show_groupes" FontFamily="Arial Black" FontSize="20"/>
         </StackPanel>
 
         <StackPanel Grid.Column="1" Margin="10,28,23,0">
