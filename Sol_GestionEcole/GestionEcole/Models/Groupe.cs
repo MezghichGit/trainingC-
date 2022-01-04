@@ -11,5 +11,9 @@ namespace GestionEcole.Models
         public int Nombre { get; set; }
         public ICollection<Etudiant> AllEtudiants { get; set; }
 
+        public override string ToString()
+        {
+            return this.Id + ", " + this.Libelle + ", " + this.Nombre ;
+        }
     }
 }

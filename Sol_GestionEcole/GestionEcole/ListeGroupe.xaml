@@ -1,0 +1,21 @@
+﻿<Window x:Class="GestionEcole.ListeGroupe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestionEcole"
+        mc:Ignorable="d"
+        Title="ListeGroupe" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="listeGroupe" Margin="27,49,35,54" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="100" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn Header="Libelle" Width="350" DisplayMemberBinding="{Binding Libelle}" />
+                    <GridViewColumn Header="Nombre" Width="100" DisplayMemberBinding="{Binding Nombre}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

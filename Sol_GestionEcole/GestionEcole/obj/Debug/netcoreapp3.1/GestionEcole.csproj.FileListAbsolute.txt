@@ -58,3 +58,5 @@ C:\Users\amine\Desktop\Lab\Sol_GestionEcole\GestionEcole\obj\Debug\netcoreapp3.1
 C:\Users\amine\Desktop\Lab\Sol_GestionEcole\GestionEcole\obj\Debug\netcoreapp3.1\GestionEcole.dll
 C:\Users\amine\Desktop\Lab\Sol_GestionEcole\GestionEcole\obj\Debug\netcoreapp3.1\GestionEcole.pdb
 C:\Users\amine\Desktop\Lab\Sol_GestionEcole\GestionEcole\obj\Debug\netcoreapp3.1\GestionEcole.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Sol_GestionEcole\GestionEcole\obj\Debug\netcoreapp3.1\ListeGroupe.g.cs
+C:\Users\amine\Desktop\Lab\Sol_GestionEcole\GestionEcole\obj\Debug\netcoreapp3.1\ListeGroupe.baml
