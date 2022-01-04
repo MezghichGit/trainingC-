@@ -1,0 +1,15 @@
+c:\users\miz\documents\visual studio 2013\Projects\CRUD_SQL_Server\CRUD_Console\bin\Debug\CRUD_Console.exe.config
+c:\users\miz\documents\visual studio 2013\Projects\CRUD_SQL_Server\CRUD_Console\bin\Debug\CRUD_Console.exe
+c:\users\miz\documents\visual studio 2013\Projects\CRUD_SQL_Server\CRUD_Console\bin\Debug\CRUD_Console.pdb
+c:\users\miz\documents\visual studio 2013\Projects\CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.exe
+c:\users\miz\documents\visual studio 2013\Projects\CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.pdb
+G:\Enseignements\C2\Cours_Esprit_C#\C#\doc_esprit\Projets\CRUD_SQL_Server\CRUD_Console\bin\Debug\CRUD_Console.exe.config
+G:\Enseignements\C2\Cours_Esprit_C#\C#\doc_esprit\Projets\CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.exe
+G:\Enseignements\C2\Cours_Esprit_C#\C#\doc_esprit\Projets\CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.pdb
+C:\Users\Amine-PC\Desktop\SIP\Formations_SIP_10_10_2019\2020_C#\supportasp_net\7-CRUD_SQL_Server\CRUD_Console\bin\Debug\CRUD_Console.exe.config
+C:\Users\Amine-PC\Desktop\SIP\Formations_SIP_10_10_2019\2020_C#\supportasp_net\7-CRUD_SQL_Server\CRUD_Console\bin\Debug\CRUD_Console.exe
+C:\Users\Amine-PC\Desktop\SIP\Formations_SIP_10_10_2019\2020_C#\supportasp_net\7-CRUD_SQL_Server\CRUD_Console\bin\Debug\CRUD_Console.pdb
+C:\Users\Amine-PC\Desktop\SIP\Formations_SIP_10_10_2019\2020_C#\supportasp_net\7-CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.csprojAssemblyReference.cache
+C:\Users\Amine-PC\Desktop\SIP\Formations_SIP_10_10_2019\2020_C#\supportasp_net\7-CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.csproj.CoreCompileInputs.cache
+C:\Users\Amine-PC\Desktop\SIP\Formations_SIP_10_10_2019\2020_C#\supportasp_net\7-CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.exe
+C:\Users\Amine-PC\Desktop\SIP\Formations_SIP_10_10_2019\2020_C#\supportasp_net\7-CRUD_SQL_Server\CRUD_Console\obj\Debug\CRUD_Console.pdb

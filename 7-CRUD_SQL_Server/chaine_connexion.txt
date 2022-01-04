@@ -1,0 +1,7 @@
+
+
+Version VS >2012, 2017, 2019
+(localdb)\MSSQLLocalDB
+
+Version < 2012
+(localdb)\V11.0
