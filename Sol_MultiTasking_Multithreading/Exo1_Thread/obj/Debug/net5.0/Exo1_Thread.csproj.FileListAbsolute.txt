@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\bin\Debug\net5.0\Exo1_Thread.exe
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\bin\Debug\net5.0\Exo1_Thread.deps.json
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\bin\Debug\net5.0\Exo1_Thread.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\bin\Debug\net5.0\Exo1_Thread.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\bin\Debug\net5.0\Exo1_Thread.dll
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\bin\Debug\net5.0\ref\Exo1_Thread.dll
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\bin\Debug\net5.0\Exo1_Thread.pdb
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.dll
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\ref\Exo1_Thread.dll
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.pdb
+C:\Users\amine\Desktop\Lab\Sol_MultiTasking_Multithreading\Exo1_Thread\obj\Debug\net5.0\Exo1_Thread.genruntimeconfig.cache

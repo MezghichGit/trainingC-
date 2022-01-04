@@ -18,3 +18,9 @@ C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\ExoCa
 C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\ExoCalcul.dll
 C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\ExoCalcul.pdb
 C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\ExoCalcul.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\Calculatrice.g.cs
+C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\Calculatrice.baml
+C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\AddStudent.g.cs
+C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\AddStudent.baml
+C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\OneWay.g.cs
+C:\Users\amine\Desktop\Lab\Sol_ExoCalcul\ExoCalcul\obj\Debug\netcoreapp3.1\OneWay.baml

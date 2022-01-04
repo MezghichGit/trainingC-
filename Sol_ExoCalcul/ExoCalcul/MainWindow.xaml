@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Première interface" Height="374" Width="537" WindowStartupLocation="CenterScreen">
     <Grid>
+        <TextBox AcceptsReturn="True"  SpellCheck.IsEnabled="True" Language="en-US" Margin="256,19,0,0" Height="36" VerticalAlignment="Top" HorizontalAlignment="Left" Width="173"/>
         <Button x:Name="btnSomme" Content="Somme" HorizontalAlignment="Center" Margin="0,267,0,0" VerticalAlignment="Top" Height="65" Width="148" FontFamily="Stencil" FontSize="24" Click="somme_btn"/>
         <Label x:Name="labelVal1" Content="Valeur 1" HorizontalAlignment="Left" Margin="70,79,0,0" VerticalAlignment="Top" Height="50" Width="151" FontSize="22" FontFamily="Stencil"/>
         <Label x:Name="labelVal2" Content="Valeur 2" HorizontalAlignment="Left" Margin="70,0,0,0" VerticalAlignment="Center" Height="50" Width="151" FontSize="22" FontFamily="Stencil"/>
@@ -14,5 +15,8 @@
         <TextBox x:Name="TextBox2" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Width="176" Height="25" Margin="194,0,0,0"/>
         <Label x:Name="labelSome" Content="La somme : 
                " HorizontalAlignment="Left" Margin="70,225,0,0" VerticalAlignment="Top" Height="37" Width="341" FontSize="22" FontFamily="Stencil"/>
+        <Label x:Name="Text" Content="Taper un text" HorizontalAlignment="Left" Margin="31,19,0,0" VerticalAlignment="Top" Height="50" Width="200
+               " FontSize="22" FontFamily="Stencil"/>
+
     </Grid>
 </Window>

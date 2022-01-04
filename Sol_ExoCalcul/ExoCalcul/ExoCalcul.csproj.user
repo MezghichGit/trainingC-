@@ -7,7 +7,27 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AddStudent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Calculatrice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OneWay.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddStudent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Calculatrice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OneWay.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
