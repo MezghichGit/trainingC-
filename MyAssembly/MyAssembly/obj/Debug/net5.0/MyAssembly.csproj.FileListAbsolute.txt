@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\MyAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\MyAssembly.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\MyAssembly.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\MyAssembly.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\bin\Debug\net5.0\MyAssembly.exe
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\bin\Debug\net5.0\MyAssembly.deps.json
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\bin\Debug\net5.0\MyAssembly.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\bin\Debug\net5.0\MyAssembly.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\bin\Debug\net5.0\MyAssembly.dll
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\bin\Debug\net5.0\ref\MyAssembly.dll
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\bin\Debug\net5.0\MyAssembly.pdb
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\MyAssembly.dll
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\ref\MyAssembly.dll
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\MyAssembly.pdb
+C:\Users\amine\Desktop\Lab\MyAssembly\MyAssembly\obj\Debug\net5.0\MyAssembly.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsommateurMyAssembly/1.0.0": {
+        "runtime": {
+          "ConsommateurMyAssembly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsommateurMyAssembly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\bin\Debug\net5.0\BibUtile.deps.json
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\bin\Debug\net5.0\BibUtile.dll
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\bin\Debug\net5.0\ref\BibUtile.dll
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\bin\Debug\net5.0\BibUtile.pdb
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\BibUtile.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\BibUtile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\BibUtile.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\BibUtile.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\BibUtile.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\BibUtile.dll
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\ref\BibUtile.dll
+C:\Users\amine\Desktop\Lab\BibUtile\BibUtile\obj\Debug\net5.0\BibUtile.pdb

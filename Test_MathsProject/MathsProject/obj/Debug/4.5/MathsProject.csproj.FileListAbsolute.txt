@@ -1,0 +1,10 @@
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\4.5\MathsProject.exe.config
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\4.5\MathsProject.exe
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\4.5\MathsProject.pdb
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\4.5\MathsProject.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\4.5\MathsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\4.5\MathsProject.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\4.5\MathsProject.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\4.5\MathsProject.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\4.5\MathsProject.exe
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\4.5\MathsProject.pdb

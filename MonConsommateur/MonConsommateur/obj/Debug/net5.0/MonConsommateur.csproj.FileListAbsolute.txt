@@ -1,0 +1,15 @@
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\bin\Debug\net5.0\MonConsommateur.exe
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\bin\Debug\net5.0\MonConsommateur.deps.json
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\bin\Debug\net5.0\MonConsommateur.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\bin\Debug\net5.0\MonConsommateur.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\bin\Debug\net5.0\MonConsommateur.dll
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\bin\Debug\net5.0\ref\MonConsommateur.dll
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\bin\Debug\net5.0\MonConsommateur.pdb
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\MonConsommateur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\MonConsommateur.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\MonConsommateur.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\MonConsommateur.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\MonConsommateur.dll
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\ref\MonConsommateur.dll
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\MonConsommateur.pdb
+C:\Users\amine\Desktop\Lab\MonConsommateur\MonConsommateur\obj\Debug\net5.0\MonConsommateur.genruntimeconfig.cache

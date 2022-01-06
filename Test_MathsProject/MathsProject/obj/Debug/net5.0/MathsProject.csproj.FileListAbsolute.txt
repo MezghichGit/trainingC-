@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\net5.0\MathsProject.exe
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\net5.0\MathsProject.deps.json
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\net5.0\MathsProject.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\net5.0\MathsProject.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\net5.0\MathsProject.dll
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\net5.0\ref\MathsProject.dll
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\bin\Debug\net5.0\MathsProject.pdb
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.dll
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\ref\MathsProject.dll
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.pdb
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\Test_MathsProject\MathsProject\obj\Debug\net5.0\MathsProject.csproj.AssemblyReference.cache

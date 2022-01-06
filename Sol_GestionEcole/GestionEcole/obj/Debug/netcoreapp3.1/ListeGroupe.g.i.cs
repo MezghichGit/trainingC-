@@ -61,7 +61,7 @@ namespace GestionEcole {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GestionEcole;component/listegroupe.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GestionEcole;V1.0.0.0;component/listegroupe.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ListeGroupe.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

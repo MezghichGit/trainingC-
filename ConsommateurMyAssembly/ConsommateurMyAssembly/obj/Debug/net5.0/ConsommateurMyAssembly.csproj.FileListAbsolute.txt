@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\bin\Debug\net5.0\ConsommateurMyAssembly.exe
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\bin\Debug\net5.0\ConsommateurMyAssembly.deps.json
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\bin\Debug\net5.0\ConsommateurMyAssembly.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\bin\Debug\net5.0\ConsommateurMyAssembly.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\bin\Debug\net5.0\ConsommateurMyAssembly.dll
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\bin\Debug\net5.0\ref\ConsommateurMyAssembly.dll
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\bin\Debug\net5.0\ConsommateurMyAssembly.pdb
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.dll
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ref\ConsommateurMyAssembly.dll
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.pdb
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.genruntimeconfig.cache
+C:\Users\amine\Desktop\Lab\ConsommateurMyAssembly\ConsommateurMyAssembly\obj\Debug\net5.0\ConsommateurMyAssembly.csproj.AssemblyReference.cache

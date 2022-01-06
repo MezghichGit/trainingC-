@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\bin\Debug\net5.0\Banque.exe
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\bin\Debug\net5.0\Banque.deps.json
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\bin\Debug\net5.0\Banque.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\bin\Debug\net5.0\Banque.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\bin\Debug\net5.0\Banque.dll
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\bin\Debug\net5.0\ref\Banque.dll
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\bin\Debug\net5.0\Banque.pdb
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.dll
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\ref\Banque.dll
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.pdb
+C:\Users\amine\Desktop\Lab\Gestion_Banque\Banque\obj\Debug\net5.0\Banque.genruntimeconfig.cache

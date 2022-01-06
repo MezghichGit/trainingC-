@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\bin\Debug\net5.0\GestionBanque.exe
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\bin\Debug\net5.0\GestionBanque.deps.json
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\bin\Debug\net5.0\GestionBanque.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\bin\Debug\net5.0\GestionBanque.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\bin\Debug\net5.0\GestionBanque.dll
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\bin\Debug\net5.0\ref\GestionBanque.dll
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\bin\Debug\net5.0\GestionBanque.pdb
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.dll
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\ref\GestionBanque.dll
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.pdb
+C:\Users\amine\Desktop\Lab\GestionBanque\GestionBanque\obj\Debug\net5.0\GestionBanque.genruntimeconfig.cache

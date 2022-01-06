@@ -1,0 +1,11 @@
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\bin\Debug\net5.0\MathsUtil.deps.json
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\bin\Debug\net5.0\MathsUtil.dll
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\bin\Debug\net5.0\ref\MathsUtil.dll
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\bin\Debug\net5.0\MathsUtil.pdb
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\obj\Debug\net5.0\MathsUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\obj\Debug\net5.0\MathsUtil.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\obj\Debug\net5.0\MathsUtil.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\obj\Debug\net5.0\MathsUtil.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\obj\Debug\net5.0\MathsUtil.dll
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\obj\Debug\net5.0\ref\MathsUtil.dll
+C:\Users\amine\Desktop\Lab\MathsUtil\MathsUtil\obj\Debug\net5.0\MathsUtil.pdb

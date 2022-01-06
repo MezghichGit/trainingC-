@@ -1,0 +1,11 @@
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\bin\Debug\net5.0\MonAssembly.deps.json
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\bin\Debug\net5.0\MonAssembly.dll
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\bin\Debug\net5.0\ref\MonAssembly.dll
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\bin\Debug\net5.0\MonAssembly.pdb
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\obj\Debug\net5.0\MonAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\obj\Debug\net5.0\MonAssembly.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\obj\Debug\net5.0\MonAssembly.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\obj\Debug\net5.0\MonAssembly.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\obj\Debug\net5.0\MonAssembly.dll
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\obj\Debug\net5.0\ref\MonAssembly.dll
+C:\Users\amine\Desktop\Lab\MonAssembly\MonAssembly\obj\Debug\net5.0\MonAssembly.pdb
