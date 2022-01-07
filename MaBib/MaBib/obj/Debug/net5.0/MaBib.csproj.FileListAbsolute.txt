@@ -1,0 +1,12 @@
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\bin\Debug\net5.0\MaBib.deps.json
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\bin\Debug\net5.0\MaBib.dll
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\bin\Debug\net5.0\ref\MaBib.dll
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\bin\Debug\net5.0\MaBib.pdb
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\MaBib.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\MaBib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\MaBib.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\MaBib.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\MaBib.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\MaBib.dll
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\ref\MaBib.dll
+C:\Users\amine\Desktop\Lab\MaBib\MaBib\obj\Debug\net5.0\MaBib.pdb

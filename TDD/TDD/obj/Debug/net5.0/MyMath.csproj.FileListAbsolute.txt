@@ -1,0 +1,11 @@
+C:\Users\amine\Desktop\Lab\TDD\TDD\bin\Debug\net5.0\MyMath.deps.json
+C:\Users\amine\Desktop\Lab\TDD\TDD\bin\Debug\net5.0\MyMath.dll
+C:\Users\amine\Desktop\Lab\TDD\TDD\bin\Debug\net5.0\ref\MyMath.dll
+C:\Users\amine\Desktop\Lab\TDD\TDD\bin\Debug\net5.0\MyMath.pdb
+C:\Users\amine\Desktop\Lab\TDD\TDD\obj\Debug\net5.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\TDD\TDD\obj\Debug\net5.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\TDD\TDD\obj\Debug\net5.0\MyMath.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\TDD\TDD\obj\Debug\net5.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\TDD\TDD\obj\Debug\net5.0\MyMath.dll
+C:\Users\amine\Desktop\Lab\TDD\TDD\obj\Debug\net5.0\ref\MyMath.dll
+C:\Users\amine\Desktop\Lab\TDD\TDD\obj\Debug\net5.0\MyMath.pdb

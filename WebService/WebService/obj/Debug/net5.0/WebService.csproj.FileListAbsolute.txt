@@ -1,0 +1,16 @@
+C:\Users\amine\Desktop\Lab\WebService\WebService\bin\Debug\net5.0\WebService.exe
+C:\Users\amine\Desktop\Lab\WebService\WebService\bin\Debug\net5.0\WebService.deps.json
+C:\Users\amine\Desktop\Lab\WebService\WebService\bin\Debug\net5.0\WebService.runtimeconfig.json
+C:\Users\amine\Desktop\Lab\WebService\WebService\bin\Debug\net5.0\WebService.runtimeconfig.dev.json
+C:\Users\amine\Desktop\Lab\WebService\WebService\bin\Debug\net5.0\WebService.dll
+C:\Users\amine\Desktop\Lab\WebService\WebService\bin\Debug\net5.0\ref\WebService.dll
+C:\Users\amine\Desktop\Lab\WebService\WebService\bin\Debug\net5.0\WebService.pdb
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.csproj.AssemblyReference.cache
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.AssemblyInfoInputs.cache
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.AssemblyInfo.cs
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.dll
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\ref\WebService.dll
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.pdb
+C:\Users\amine\Desktop\Lab\WebService\WebService\obj\Debug\net5.0\WebService.genruntimeconfig.cache
