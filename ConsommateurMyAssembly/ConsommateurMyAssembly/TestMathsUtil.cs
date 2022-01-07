@@ -32,7 +32,8 @@ namespace ConsommateurMyAssembly
 
             
            */
-            Console.WriteLine("Invocation d'un type de l'assembly");
+            /*
+            Console.WriteLine("Invocation d'un méthode d'instance d'un type de l'assembly");
             //
             // 1. Load assembly "MaBiby.dll" from file path. Specify that we will be using class MyAssembly.MyClass
             //
@@ -73,7 +74,27 @@ namespace ConsommateurMyAssembly
             //
             var r = methodInfo.Invoke(o, parameters);
             Console.WriteLine(r);
-            
+            */
+
+            Console.WriteLine("Invocation d'un méthode statique d'un type de l'assembly");
+            Assembly asm = Assembly.LoadFrom(@"C:\Users\amine\Desktop\Testing\MaBib.dll");
+            Type t = asm.GetType("MaBib.MyClass");
+            var methodInfoStatic = t.GetMethod("StaticMethod");
+            if (methodInfoStatic == null)
+            {
+                // never throw generic Exception - replace this with some other exception type
+                throw new Exception("No such static method exists.");
+            }
+
+            // Specify parameters for static method: 'public static void MyMethod(int count, float radius)'
+            object[] staticParameters = new object[2];
+            staticParameters[0] = 10;
+            staticParameters[1] = 3.14159f;
+         
+            // Invoke static method
+            methodInfoStatic.Invoke(t, staticParameters);
+
+
         }
     }
 }
