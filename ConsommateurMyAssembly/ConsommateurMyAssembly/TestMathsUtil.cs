@@ -10,6 +10,7 @@ namespace ConsommateurMyAssembly
             //
             // 1. Load assembly "MyAssembly.dll" from file path. Specify that we will be using class MyAssembly.MyClass
             //
+            /*
             Assembly asm = Assembly.LoadFrom(@"C:\Users\amine\Desktop\Testing\MaBib.dll");
             var totalTypesInAssembly = asm.GetTypes();
             Console.WriteLine("Les types dans l'Assembly ******************");
@@ -29,8 +30,9 @@ namespace ConsommateurMyAssembly
             for (int i = 0; i < constructors.Length; i++)
                 Console.WriteLine(constructors[i]);
 
-
-            /*
+            
+           */
+            Console.WriteLine("Invocation d'un type de l'assembly");
             //
             // 1. Load assembly "MaBiby.dll" from file path. Specify that we will be using class MyAssembly.MyClass
             //
@@ -71,7 +73,7 @@ namespace ConsommateurMyAssembly
             //
             var r = methodInfo.Invoke(o, parameters);
             Console.WriteLine(r);
-            */
+            
         }
     }
 }
